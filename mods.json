@@ -56,6 +56,17 @@
         }
       ]
     },
+    "RandoBeta": {
+      "name": "Rando 2 (beta)",
+      "description": "A new and improved version of the Randomiser. Incompatible with other randomisers.",
+      "url": "https://github.com/Kirefel/OriDeRandomiser",
+      "versions": [
+        {
+          "version": "v0.1.4",
+          "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.1.4/OriDeRandomiser.zip"
+        }
+      ]
+    },
     "SceneExplorer": {
       "name": "Scene Explorer",
       "description": "A utility for exploring the Unity objects and components",

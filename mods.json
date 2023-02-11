@@ -29,30 +29,8 @@
       "url": "https://github.com/Kirefel/OriDeInputMod",
       "versions": [
         {
-          "version": "0.6.0-alpha",
-          "url": "https://github.com/ori-community/bf-modloader/releases/download/v0.6.0-alpha/OriDeModLoader.zip"
-        }
-      ]
-    },
-    "DebugEnhanced": {
-      "name": "Enhanced Debug",
-      "description": "Adds more debug features",
-      "url": "https://github.com/ori-community/bf-modloader",
-      "versions": [
-        {
-          "version": "0.6.0-alpha",
-          "url": "https://github.com/ori-community/bf-modloader/releases/download/v0.6.0-alpha/OriDeModLoader.zip"
-        }
-      ]
-    },
-    "Rando": {
-      "name": "Rando",
-      "description": "You know what this is",
-      "url": "https://github.com/ori-community/bf-modloader",
-      "versions": [
-        {
-          "version": "0.6.0-alpha",
-          "url": "https://github.com/ori-community/bf-modloader/releases/download/v0.6.0-alpha/OriDeModLoader.zip"
+          "version": "1.1.0",
+          "url": "https://github.com/Kirefel/OriDeInputMod/releases/download/v1.1.0/OriDeInputMod.zip"
         }
       ]
     },
@@ -64,17 +42,6 @@
         {
           "version": "0.1.4",
           "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.1.4/OriDeRandomiser.zip"
-        }
-      ]
-    },
-    "SceneExplorer": {
-      "name": "Scene Explorer",
-      "description": "A utility for exploring the Unity objects and components",
-      "url": "https://github.com/Kirefel/OriSceneExplorer",
-      "versions": [
-        {
-          "version": "0.6.0-alpha",
-          "url": "https://github.com/ori-community/bf-modloader/releases/download/v0.6.0-alpha/OriDeModLoader.zip"
         }
       ]
     },

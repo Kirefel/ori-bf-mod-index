@@ -18,8 +18,8 @@
       "url": "https://github.com/Kirefel/OriDeQol",
       "versions": [
         {
-          "version": "0.6.0-alpha",
-          "url": "https://github.com/ori-community/bf-modloader/releases/download/v0.6.0-alpha/OriDeModLoader.zip"
+          "version": "1.1.0",
+          "url": "https://github.com/Kirefel/OriDeQol/releases/download/v1.1.0/QolMod.zip"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "url": "https://github.com/Kirefel/OriDeRandomiser",
       "versions": [
         {
-          "version": "v0.1.4",
+          "version": "0.1.4",
           "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.1.4/OriDeRandomiser.zip"
         }
       ]

@@ -36,7 +36,7 @@
     },
     "RandoBeta": {
       "name": "Rando 2 (beta)",
-      "description": "A new and improved version of the Randomiser. Incompatible with other randomisers.",
+      "description": "A new and improved version of the Randomiser. Incompatible with other randomisers. Doesn't work right now.",
       "url": "https://github.com/Kirefel/OriDeRandomiser",
       "versions": [
         {

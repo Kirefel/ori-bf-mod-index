@@ -18,6 +18,10 @@
       "url": "https://github.com/Kirefel/OriDeQol",
       "versions": [
         {
+          "version": "1.2.0",
+          "url": "https://github.com/Kirefel/OriDeQol/releases/download/v1.2.0/QolMod.zip"
+        },
+        {
           "version": "1.1.0",
           "url": "https://github.com/Kirefel/OriDeQol/releases/download/v1.1.0/QolMod.zip"
         }

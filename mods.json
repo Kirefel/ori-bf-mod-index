@@ -38,6 +38,17 @@
         }
       ]
     },
+    "EnhancedDebug": {
+      "name": "Enhanced Debug",
+      "description": "Adds additional debug features, such as teleporting to cursor and frame step",
+      "url": "https://github.com/Kirefel/OriDeEnhancedDebug",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/Kirefel/OriDeEnhancedDebug/releases/download/v1.0.0/EnhancedDebug.zip"
+        }
+      ]
+    },
     "RandoBeta": {
       "name": "Rando 2 (beta)",
       "description": "A new and improved version of the Randomiser. Incompatible with other randomisers. Doesn't work right now.",

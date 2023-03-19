@@ -59,6 +59,10 @@
       "url": "https://github.com/Kirefel/OriDeRandomiser",
       "versions": [
         {
+          "version": "0.2.2",
+          "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.2.2/OriDeRandomiser.zip"
+        },
+        {
           "version": "0.2.1",
           "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.2.1/OriDeRandomiser.zip"
         },

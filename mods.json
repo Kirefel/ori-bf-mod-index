@@ -97,6 +97,10 @@
       "url": "https://github.com/Kirefel/OriSceneExplorer",
       "versions": [
         {
+          "version": "1.0.1",
+          "url": "https://github.com/Kirefel/OriSceneExplorer/releases/download/v1.0.1/OriSceneExplorer.zip"
+        },
+        {
           "version": "1.0.0",
           "url": "https://github.com/Kirefel/OriSceneExplorer/releases/download/v1.0.0/OriSceneExplorer.zip"
         }

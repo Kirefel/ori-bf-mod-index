@@ -59,7 +59,7 @@
     },
     "RandoBeta": {
       "name": "Rando 2 (beta)",
-      "description": "A new and improved version of the Randomiser (requires Python 3.10+ from python.org/downloads)",
+      "description": "A new and improved version of the Randomiser (requires Python from python.org/downloads)",
       "url": "https://github.com/Kirefel/OriDeRandomiser",
       "versions": [
         {

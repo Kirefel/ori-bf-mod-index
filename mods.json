@@ -63,6 +63,10 @@
       "url": "https://github.com/Kirefel/OriDeRandomiser",
       "versions": [
         {
+          "version": "0.4.0",
+          "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.4.0/OriDeRandomiser.zip"
+        },
+        {
           "version": "0.3.0",
           "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.3.0/OriDeRandomiser.zip"
         },
@@ -96,6 +100,10 @@
       "description": "A utility to explore the scenes and components that make up the game",
       "url": "https://github.com/Kirefel/OriSceneExplorer",
       "versions": [
+        {
+          "version": "1.0.2",
+          "url": "https://github.com/Kirefel/OriSceneExplorer/releases/download/v1.0.2/OriSceneExplorer.zip"
+        },
         {
           "version": "1.0.1",
           "url": "https://github.com/Kirefel/OriSceneExplorer/releases/download/v1.0.1/OriSceneExplorer.zip"

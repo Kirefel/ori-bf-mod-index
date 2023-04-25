@@ -7,8 +7,8 @@
       "url": "https://github.com/ori-community/bf-modloader",
       "versions": [
         {
-          "version": "0.8.1-alpha",
-          "url": "https://github.com/ori-community/bf-modloader/releases/download/v0.8.1-alpha/OriDeModLoader.zip"
+          "version": "0.8.2-alpha",
+          "url": "https://github.com/ori-community/bf-modloader/releases/download/v0.8.2-alpha/OriDeModLoader.zip"
         },
         {
           "version": "0.7.5-alpha",
@@ -67,6 +67,10 @@
       "url": "https://github.com/Kirefel/OriDeRandomiser",
       "versions": [
         {
+          "version": "0.5.0",
+          "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.5.0/OriDeRandomiser.zip"
+        },
+        {
           "version": "0.5.0-ap-beta-1",
           "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.5.0-ap-beta-1/OriDeRandomiser.zip"
         },
@@ -89,6 +93,17 @@
         {
           "version": "0.2.2",
           "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.2.2/OriDeRandomiser.zip"
+        }
+      ]
+    },
+    "Discord": {
+      "name": "Discord Rich Presence",
+      "description": "Adds support for Discord's rich game presence to Ori",
+      "url": "https://github.com/Kirefel/OriDeDiscord",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/Kirefel/OriDeDiscord/releases/download/v1.0.0/OriDeDiscord.zip"
         }
       ]
     },

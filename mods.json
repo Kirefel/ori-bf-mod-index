@@ -26,15 +26,15 @@
       "url": "https://github.com/Kirefel/OriDeQol",
       "versions": [
         {
-          "version": "1.3.0",
+          "version": "1.3",
           "url": "https://github.com/Kirefel/OriDeQol/releases/download/v1.3.0/QolMod.zip"
         },
         {
-          "version": "1.2.0",
+          "version": "1.2",
           "url": "https://github.com/Kirefel/OriDeQol/releases/download/v1.2.0/QolMod.zip"
         },
         {
-          "version": "1.1.0",
+          "version": "1.1",
           "url": "https://github.com/Kirefel/OriDeQol/releases/download/v1.1.0/QolMod.zip"
         }
       ]
@@ -45,7 +45,7 @@
       "url": "https://github.com/Kirefel/OriDeInputMod",
       "versions": [
         {
-          "version": "1.1.0",
+          "version": "1.1",
           "url": "https://github.com/Kirefel/OriDeInputMod/releases/download/v1.1.0/OriDeInputMod.zip"
         }
       ]
@@ -56,11 +56,11 @@
       "url": "https://github.com/Kirefel/OriDeEnhancedDebug",
       "versions": [
         {
-          "version": "1.1.0",
+          "version": "1.1",
           "url": "https://github.com/Kirefel/OriDeEnhancedDebug/releases/download/v1.1.0/EnhancedDebug.zip"
         },
         {
-          "version": "1.0.0",
+          "version": "1.0",
           "url": "https://github.com/Kirefel/OriDeEnhancedDebug/releases/download/v1.0.0/EnhancedDebug.zip"
         }
       ]
@@ -71,19 +71,19 @@
       "url": "https://github.com/Kirefel/OriDeRandomiser",
       "versions": [
         {
-          "version": "0.5.0",
+          "version": "0.5",
           "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.5.0/OriDeRandomiser.zip"
         },
         {
-          "version": "0.5.0-ap-beta-1",
+          "version": "0.5-ap-beta-1",
           "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.5.0-ap-beta-1/OriDeRandomiser.zip"
         },
         {
-          "version": "0.4.0",
+          "version": "0.4",
           "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.4.0/OriDeRandomiser.zip"
         },
         {
-          "version": "0.3.0",
+          "version": "0.3",
           "url": "https://github.com/Kirefel/OriDeRandomiser/releases/download/v0.3.0/OriDeRandomiser.zip"
         },
         {
@@ -106,7 +106,7 @@
       "url": "https://github.com/Kirefel/OriDeDiscord",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.0",
           "url": "https://github.com/Kirefel/OriDeDiscord/releases/download/v1.0.0/OriDeDiscord.zip"
         }
       ]
@@ -117,7 +117,7 @@
       "url": "https://github.com/Kirefel/OriDeSRDC",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.0",
           "url": "https://github.com/Kirefel/OriDeSRDC/releases/download/v1.0.0/OriDeSRDC.zip"
         }
       ]
@@ -140,7 +140,7 @@
           "url": "https://github.com/Kirefel/OriSceneExplorer/releases/download/v1.0.1/OriSceneExplorer.zip"
         },
         {
-          "version": "1.0.0",
+          "version": "1.0",
           "url": "https://github.com/Kirefel/OriSceneExplorer/releases/download/v1.0.0/OriSceneExplorer.zip"
         }
       ]

@@ -1,6 +1,7 @@
 {
-  "mods": {
-    "ModLoader": {
+  "mods": [
+    {
+      "id": "OriModding.BF.Core",
       "name": "Mod Loader",
       "description": "(Required) Enables modding of the game",
       "required": true,
@@ -20,7 +21,8 @@
         }
       ]
     },
-    "QoL": {
+    {
+      "id": "KFT.OriBF.QoL",
       "name": "Quality of Life",
       "description": "Adds many QoL and accessibility features such as screen shake reduction and more save slots",
       "url": "https://github.com/Kirefel/OriDeQol",
@@ -39,7 +41,8 @@
         }
       ]
     },
-    "InputConfig": {
+    {
+      "id": "KFT.OriBF.InputConfig",
       "name": "Input Binding",
       "description": "Adds input binding in-game and also allows rebinding controllers",
       "url": "https://github.com/Kirefel/OriDeInputMod",
@@ -50,7 +53,8 @@
         }
       ]
     },
-    "EnhancedDebug": {
+    {
+      "id": "KFT.OriBF.EnhancedDebug",
       "name": "Enhanced Debug",
       "description": "Adds additional debug features, such as teleporting to cursor and frame step",
       "url": "https://github.com/Kirefel/OriDeEnhancedDebug",
@@ -65,7 +69,8 @@
         }
       ]
     },
-    "RandoBeta": {
+    {
+      "id": "OriModding.BF.Rando",
       "name": "Rando 2 (beta)",
       "description": "A new and improved version of the Randomiser (requires Python from python.org/downloads)",
       "url": "https://github.com/Kirefel/OriDeRandomiser",
@@ -100,7 +105,8 @@
         }
       ]
     },
-    "Discord": {
+    {
+      "id": "KFT.OriBF.Discord",
       "name": "Discord Rich Presence",
       "description": "Adds support for Discord's rich game presence to Ori",
       "url": "https://github.com/Kirefel/OriDeDiscord",
@@ -111,7 +117,8 @@
         }
       ]
     },
-    "SRDC": {
+    {
+      "id": "KFT.OriBF.SRDC",
       "name": "Speedrun.com Leaderboards",
       "description": "Replaces the in-game leaderboards with the community leaderboards at speedrun.com/ori_de",
       "url": "https://github.com/Kirefel/OriDeSRDC",
@@ -122,28 +129,17 @@
         }
       ]
     },
-    "SceneExplorer": {
-      "name": "Scene Explorer",
-      "description": "A utility to explore the scenes and components that make up the game",
-      "url": "https://github.com/Kirefel/OriSceneExplorer",
+    {
+      "id": "sinai-dev-UnityExplorer",
+      "name": "UnityExplorer",
+      "description": "An in-game UI for exploring, debugging and modifying Unity games",
+      "url": "https://github.com/sinai-dev/UnityExplorer",
       "versions": [
         {
-          "version": "1.0.3",
-          "url": "https://github.com/Kirefel/OriSceneExplorer/releases/download/v1.0.3/OriSceneExplorer.zip"
-        },
-        {
-          "version": "1.0.2",
-          "url": "https://github.com/Kirefel/OriSceneExplorer/releases/download/v1.0.2/OriSceneExplorer.zip"
-        },
-        {
-          "version": "1.0.1",
-          "url": "https://github.com/Kirefel/OriSceneExplorer/releases/download/v1.0.1/OriSceneExplorer.zip"
-        },
-        {
-          "version": "1.0",
-          "url": "https://github.com/Kirefel/OriSceneExplorer/releases/download/v1.0.0/OriSceneExplorer.zip"
+          "version": "4.9.0",
+          "url": "https://github.com/sinai-dev/UnityExplorer/releases/download/4.9.0/UnityExplorer.BepInEx5.Mono.zip"
         }
       ]
     }
-  }
+  ]
 }
